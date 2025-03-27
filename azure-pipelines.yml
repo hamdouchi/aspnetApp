@@ -11,7 +11,7 @@ stages:
     - job: 'build'
     
       pool:
-        name: 'Default'
+        name: 'SelfHosted'
 
       steps:
 
