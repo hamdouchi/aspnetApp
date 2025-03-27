@@ -2,7 +2,7 @@ trigger:
 - main
 
 variables:
-  buildConfiguration: 'Release'
+  group: Variables
 
 stages:
   - stage: build
