@@ -2,7 +2,7 @@ trigger:
 - main
 
 variables:
-  group: Variables
+  - group: Variables
 
 stages:
   - stage: build
